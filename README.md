@@ -1,2 +1,3 @@
 # Myrep2
-this is about simple understanding pf git hub 
+this is about simple understanding of git hub 
+this is a readme file
